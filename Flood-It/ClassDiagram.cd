@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Button">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAQAAEABIIAAAiCAAAFCAQARCAQQIAcFJAAIAAAE=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChooseLevel">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAgAJAAAAAAAAAAAAAAEAAAAAAIAAAAABAAAAAAAA=</HashCode>
+      <FileName>ChooseLevel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Finish">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAgABAAAAAABAAAAEAAEIAAAEAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Finish.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIBAmENUGAAAQAACBABAEEAAAAAgIABAQAFACAAKRAg=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ground">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAIQAAAAAAAAAAAAAAAAAAAAAAAAgAAAAIBAA=</HashCode>
+      <FileName>Ground.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KeyButton">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAACAAAAIAAAEAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Keyboard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Keyboard">
+    <Position X="12.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBAgAJAAAIIAAAAAAAAAEAAAAAAICAAAQBEAACAAAA=</HashCode>
+      <FileName>Keyboard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeftBar">
+    <Position X="11" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAUAAAAAIAAAABAAGgFAAAAAAAAAAQAhgAGAIAAE=</HashCode>
+      <FileName>LeftBar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAgABAAAAAAAAAAAAAAEIAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneRecord">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAkAABAAAAEAIAAACg=</HashCode>
+      <FileName>OneRecord.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReadRecord">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECAAgAAAAgAABAAQAEAAEAAAAEAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>ReadRecords.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Records">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAggJABAIACAAAAAAAAEAAAAAAIAAAAABACAAAAAA=</HashCode>
+      <FileName>Records.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Run">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAEgAAIAAACAAAAAAAAAAoAAAAAAAAIAAgACAAAAAA=</HashCode>
+      <FileName>Run.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

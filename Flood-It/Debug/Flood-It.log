@@ -1,0 +1,29 @@
+﻿Сборка начата 01.04.2015 20:14:04.
+     1>Проект "D:\Taras\Уроки\Курсач\Flood-It\Flood-It\Flood-It.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Taras\Programs\VisualStudio\VC\bin\CL.exe /c /I"SDL-1.2.15\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\taras\уроки\курсач\flood-it\flood-it\button.h(36): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\taras\уроки\курсач\flood-it\flood-it\readrecords.h(74): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>d:\taras\уроки\курсач\flood-it\flood-it\records.h(52): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\taras\уроки\курсач\flood-it\flood-it\records.h(53): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\taras\уроки\курсач\flood-it\flood-it\records.h(51): пропуск определения "i"
+                 d:\taras\уроки\курсач\flood-it\flood-it\records.h(44): используется определение "i"
+     1>d:\taras\уроки\курсач\flood-it\flood-it\records.h(55): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\taras\уроки\курсач\flood-it\flood-it\records.h(51): пропуск определения "i"
+                 d:\taras\уроки\курсач\flood-it\flood-it\records.h(44): используется определение "i"
+     1>d:\taras\уроки\курсач\flood-it\flood-it\records.h(56): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\taras\уроки\курсач\flood-it\flood-it\records.h(51): пропуск определения "i"
+                 d:\taras\уроки\курсач\flood-it\flood-it\records.h(44): используется определение "i"
+     1>d:\taras\уроки\курсач\flood-it\flood-it\finish.h(13): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>d:\taras\уроки\курсач\flood-it\flood-it\finish.h(47): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>d:\taras\уроки\курсач\flood-it\flood-it\main.cpp(48): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+       Link:
+         D:\Taras\Programs\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Taras\Уроки\Курсач\Flood-It\Debug\Flood-It.exe" /INCREMENTAL /NOLOGO /LIBPATH:"SDL-1.2.15\lib\x86" SDL.lib SDLmain.lib SDL_ttf.lib SDL_image.lib SDL_mixer.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Taras\Уроки\Курсач\Flood-It\Debug\Flood-It.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Taras\Уроки\Курсач\Flood-It\Debug\Flood-It.lib" /MACHINE:X86 "Debug\Flood-It.res"
+         Debug\main.obj
+         Flood-It.vcxproj -> D:\Taras\Уроки\Курсач\Flood-It\Debug\Flood-It.exe
+     1>Сборка проекта "D:\Taras\Уроки\Курсач\Flood-It\Flood-It\Flood-It.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.13
